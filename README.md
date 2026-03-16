@@ -1,3 +1,6 @@
 Oyunum bir kelime oyunu ekrandaki beyaz daire içerisindeki harfleri birleştirerek bir kelime oluşturuyoruz. Eğer doğruysa karelerin içerisine yazdırıyor. Yanlış ise konsol penceresinde yanlış kelime olduğuna dair bir çıktı alıyoruz. Kullandığım teknolojiler Unıty 2022, C#, LineRenderer 
-<img width="1896" height="981" alt="Ekran görüntüsü 2026-03-16 172159" src="https://github.com/user-attachments/assets/7d93d77e-75fc-4e99-a193-75cbebac8654" />  (kelimelerin brileştirilmiş hali)
-<img width="1901" height="994" alt="Ekran görüntüsü 2026-03-16 172226" src="https://github.com/user-attachments/assets/6a1a12fb-7f2d-4de1-a582-ac7e5b18f500" /> (birleştirip bıraktıktan sonraki hali)
+
+(birleştirip bıraktıktan sonraki hali)
+<img width="1896" height="981" alt="Ekran görüntüsü 2026-03-16 172159" src="https://github.com/user-attachments/assets/7d93d77e-75fc-4e99-a193-75cbebac8654" /> 
+ (kelimelerin brileştirilmiş hali)
+<img width="1901" height="994" alt="Ekran görüntüsü 2026-03-16 172226" src="https://github.com/user-attachments/assets/6a1a12fb-7f2d-4de1-a582-ac7e5b18f500" /> 
