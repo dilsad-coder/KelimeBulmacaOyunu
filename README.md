@@ -1,1 +1,1 @@
-Oyunum bir kelime oyunu ekrandaki beyaz daire içerisindeki harflri birleştirerek bir kelime oluşturuyoruz. Eğer doğruysa karelerin içerisine yazdırıyor. Yanlış ise konsol penceresinde yanlış kelime olduğuna dair bir çıktı alıyoruz.
+Oyunum bir kelime oyunu ekrandaki beyaz daire içerisindeki harfleri birleştirerek bir kelime oluşturuyoruz. Eğer doğruysa karelerin içerisine yazdırıyor. Yanlış ise konsol penceresinde yanlış kelime olduğuna dair bir çıktı alıyoruz. Kullandığım teknolojiler Unıty 2022, C#, LineRenderer 
